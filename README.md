@@ -61,7 +61,6 @@ The following ensemble models were used for predicting heart disease:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Connect with Me
-- **LinkedIn**: [Sunny Kumar](https://linkedin.com/sunny-bibyan)
 - **Contact**: Email me at sunnykumar6121997@gmail.com
 
 
